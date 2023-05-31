@@ -4,9 +4,9 @@ Caso:
 
 Invias solicita una aplicación creada en react, que permita visualizar un mapa con la capa de carreteras de Colombia, y también ver los datos tabulados de cada sección de las carreteras. Para ello se debe tener lo siguiente:
 
-1. Crear un componente con un mapa que tenga el basemap "streets"
-2. Agregar al mapa la capa de carreteras de Colombia (https://hermes2.invias.gov.co/portal/home/item.html?id=b3325d61618f4d0081aa2e9d43d4957e)
-3. El mapa debe tener un extent donde se visualice Colombia
+1. Crear un componente con un mapa que tenga el basemap "streets"  ///realizado
+2. Agregar al mapa la capa de carreteras de Colombia (https://hermes2.invias.gov.co/portal/home/item.html?id=b3325d61618f4d0081aa2e9d43d4957e)   //realizado
+3. El mapa debe tener un extent donde se visualice Colombia  //realizado
 4. Agregar el botón Home para poder volver al extent inicial
 5. Agregar el widget de leyenda para poder entender la simbología
 6. La capa debe tener una visualización de valores únicos con los siguientes requerimientos:
